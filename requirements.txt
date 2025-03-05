@@ -1,0 +1,5 @@
+aiogram
+beautifulsoup4
+requests
+python-dotenv
+transliterate
