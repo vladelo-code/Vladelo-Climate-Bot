@@ -23,6 +23,7 @@
 🌙 Ночью: -12°C  
 💧 Влажность: 75%  
 ```
+<img src="Photo-Example.png" width="600" style="display: block; margin: auto;">
 
 ---
 
