@@ -1,10 +1,10 @@
-<img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Aiogram-3.x-blueviolet?logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/BeautifulSoup-4-green?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Requests-HTTP-orange?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Regex-re--module-yellow?logo=regex&logoColor=white" />
-<img src="https://img.shields.io/badge/dotenv-.env-green?logo=dotenv&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Aiogram](https://img.shields.io/badge/Aiogram-3.x-blueviolet?logo=telegram)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-green?logo=html5)
+![Requests](https://img.shields.io/badge/Requests-HTTP-orange?logo=python)
+![Regex](https://img.shields.io/badge/Regex-re--module-yellow?logo=regex)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-env-green?logo=python)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker)
 
 # 🌤 Vladelo-Climate-Bot — Telegram-бот для получения статистики погоды
 
