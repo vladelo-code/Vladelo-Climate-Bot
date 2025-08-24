@@ -150,7 +150,8 @@ docker run --rm --env-file .env climate-bot
 ## 📬 **Контакты**
 
 Автор: Владислав Лахтионов  
-GitHub: [vladelo777](https://github.com/vladelo777)  
+GitHub: [vladelo-code](https://github.com/vladelo-code)  
+GitHub: [vladelo](https://gitverse.ru/vladelo/)  
 Telegram: [@vladelo](https://t.me/vladelo)
 
 💌 Не забудьте поставить звезду ⭐ на GitHub, если вам понравился бот! 😉
