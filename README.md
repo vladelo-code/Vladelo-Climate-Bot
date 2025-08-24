@@ -48,7 +48,7 @@
 #### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/vladelo777/Vladelo-Climate-Bot.git
+git clone https://github.com/vladelo-code/Vladelo-Climate-Bot.git
 cd Vladelo-Climate-Bot
 ```
 
@@ -79,7 +79,7 @@ python app/main.py
 #### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/vladelo777/Vladelo-Climate-Bot.git
+git clone https://github.com/vladelo-code/Vladelo-Climate-Bot.git
 cd Vladelo-Climate-Bot
 ```
 
