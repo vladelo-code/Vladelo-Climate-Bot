@@ -24,7 +24,9 @@ async def start(message: Message):
 # Обрабатываем команду /how
 @dp.message(Command('how'))
 async def start(message: Message):
-    await message.answer('Подробнее про проект Вы можете прочитать на <a href="https://github.com/vladelo-code/Vladelo-Climate-Bot">GitHub</a>.', parse_mode='HTML')
+    await message.answer(
+        'Подробнее про проект Вы можете прочитать на <a href="https://github.com/vladelo-code/Vladelo-Climate-Bot">GitHub</a>.',
+        parse_mode='HTML', disable_web_page_preview=True)
 
 
 # Обрабатываем команду /help
